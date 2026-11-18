@@ -30,15 +30,5 @@ The queries in this project answer 12 core performance and operational questions
 * **Player of the Match Dominance:** Highlights individual standout performers with the most match awards (Top 1 and Top 5 lists) (`Q10`, `Q11`).
 * **Busiest Venues:** Identifies the stadium/venue that has hosted the highest volume of matches (`Q13`).
 
----
 
-## 🛠️ Tech Stack & Database
-* **Database Management System:** SQL Server / MySQL
-* **Key Functions Used:** Aggregations (`COUNT`, `SUM`, `MAX`, `MIN`), `GROUP BY`, `ORDER BY`, Conditional Filtering (`WHERE`), and Result Limiting (`LIMIT`).
 
----
-
-## 🚀 How to Run the Script
-1. Open your SQL environment (e.g., SQL Server Management Studio or MySQL Workbench).
-2. Create or select your database: `USE cricket;`
-3. Execute the queries sequentially to view structured match analytics and performance insights.
